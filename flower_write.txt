@@ -1,0 +1,19 @@
+Andromeda - Shrub - 0
+Bellflower - Flower - 0
+China Pink - Flower - 0
+Daffodil - Flower - 0
+Evening Primrose - Flower - 0
+French Marigold - Flower - 0
+Hydrangea - Shrub - 0
+Iris - Flower - 0
+Japanese Camellia - Shrub - 0
+Lavender - Shrub - 0
+Lilac- Shrub - 0
+Magnolia - Shrub - 0
+Peony - Shrub - 0
+Queen Anne's Lace - Flower - 0
+Red Hot Poker - Flower - 0
+Snapdragon - Flower - 1
+Sunflower - Flower - 1
+Tiger Lily - Flower - 0
+Witch Hazel - Shrub - 0
